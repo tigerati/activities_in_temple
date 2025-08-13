@@ -1,0 +1,25 @@
+.footer {
+  background: linear-gradient(135deg, #ff9800 0%, #ffa726 40%, #ffcc80 100%);
+  color: white;
+  font-size: 0.95rem;
+}
+
+.line-contact-bar {
+  padding: 6px 10px;
+  border-radius: 4px;
+  color: white;
+}
+
+.line-contact-bar:hover {
+  background-color: #A0522D;
+}
+
+.line-icon {
+  width: 24px;
+  height: 24px;
+  margin-left: -15px;
+}
+
+.line-text {
+  font-size: 0.95rem;
+}

@@ -1,0 +1,33 @@
+.teaser-title {
+  color: #ff6f00;
+}
+
+.teaser-desc {
+  font-style: italic;
+  max-width: 42ch;        /* keeps lines readable when centered */
+}
+
+.teaser-cta {
+  background-color: #ffa726;
+  border: none;
+  color: #fff;
+}
+
+.btn-primary {
+  background-color: #ffa726 !important;
+  border-color: #ffa726 !important;
+}
+
+.btn-primary:hover {
+  background-color: #fb8c00 !important;
+  border-color: #fb8c00 !important;
+}
+
+.hero-section {
+  min-height: 180px;
+  background: linear-gradient(135deg, #ff9800 0%, #ffa726 40%, #ffcc80 100%);
+}
+
+.hero-title {
+  letter-spacing: .5px;
+}
