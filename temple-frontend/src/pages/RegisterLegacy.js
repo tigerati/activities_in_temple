@@ -83,7 +83,7 @@ export default function RegisterLegacy() {
           </div>
 
           <div className="col-12 col-md-3">
-            <label className="form-label">คำนำหน้าอื่น</label>
+            <label className="form-label" placeholder="กรุณาใส่หาเลือกอื่นๆ">คำนำหน้าอื่น</label>
             <input name="prefix_oth" value={f.prefix_oth} onChange={set} className="form-control" />
           </div>
 
