@@ -40,7 +40,7 @@ Thumbs.db
 
 # ========================================
 # Backend specific
-uploads/
+# uploads/
 tmp/
 logs/
 *.pid
